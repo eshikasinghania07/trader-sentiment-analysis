@@ -48,8 +48,9 @@ Both datasets are aligned at a daily level for analysis.
 ---
 
 ## How to Run
+
 1. Clone the repository:
-   ```bash
-   git clone <>
-<   git clone <repo-url>
+```bash
+git clone https://github.com/eshikasinghania07/trader-sentiment-analysis
+
 
